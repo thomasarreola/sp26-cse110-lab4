@@ -1,0 +1,31 @@
+# Question 1
+The thing that will happen at line 12 is that the program will return: 3
+
+# Question 2
+The thing that will happen at line 13 is that the program will return: 150
+
+# Question 3
+The thing that will happen at line 14 is that the program will return: 150
+
+# Question 4
+The thing that this overall function will return is an array [50,100,150]
+
+# Question 5
+The thing that will be outputted to the console is 3
+
+# Question 6
+When you do that you will get this error: ReferenceError: discountedPrice is not defined, the reason you will get
+that error is ebcause let is only defined in the for loop, it does nto exist out of it
+
+# Question 7
+You will get outputted to your console the number: 150
+
+# Question 8
+You will get returned this array of numbers: [ 50, 100, 150 ]
+
+# Question 9
+
+
+# Question 10
+
+# Question 11
