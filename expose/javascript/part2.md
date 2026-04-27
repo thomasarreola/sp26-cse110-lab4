@@ -41,7 +41,14 @@ D. student['Favorite Teacher'].name
 E. student.courseLoad[0]
 
 # Question 13
-
+A. it returns '32', and it is because it coverts the 2 to a string and adds the strings together
+B. it returns a 1, and it is because it converts the '3' to an actual 3 and subtracts the 2
+C. it returns a 3 because when you add null you are adding nothing
+D. it returns '3null' because since '3' is a string it just adds the string 'null' to it
+E.it returns 4 because it converts true to 1, and adds it to 3
+F.it returns 0, because it converts false to 0, and since null is basically just adding nothing it stays 0
+G.it returns '3undefined' because it interprets undefines as a string and adds a string to a string
+H.it returns Nan, because even if it converts '3' to 3, you can't subtract something that it is not defined
 
 # Question 14
 
