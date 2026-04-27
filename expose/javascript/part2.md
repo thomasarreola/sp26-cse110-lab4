@@ -63,13 +63,6 @@ F. it returns true because Boolean(2) is evaluated as true as long as the thing 
 The difference between == and === is that == does type conversation while === does not and evaluates them as
 they are written
 
-# Question 16
-for(const property in statistics){
-    if((property[0] == 'r') || (statistics[property] %2 != 0)){
-        console.log(`${property}: ${statistics[property]}`);
-    }
-}
-
 # Question 17
 The result will be is that [1,2,3] will be doubled to [2,4,6]. So when you run the function with the parameteres
 you have you are passing a function called doSomething, and what it does is double any number passsed through its
@@ -78,7 +71,5 @@ that was passed as a parameter and push it onto newArray by passing it through t
 doSomething which doubles the value of each element of the array, and when it finishes it returns the array which
 is just an array which has all the values doubled of the original array.
 
-# Question 18
-
-
 # Question 19
+The output of the following code will be 1, then 4, then 3, then 2. 
