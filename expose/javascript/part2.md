@@ -71,7 +71,14 @@ for(const property in statistics){
 }
 
 # Question 17
+The result will be is that [1,2,3] will be doubled to [2,4,6]. So when you run the function with the parameteres
+you have you are passing a function called doSomething, and what it does is double any number passsed through its
+parameters. The function modifyArray first creates a new array newArr, and then it iterates through the array
+that was passed as a parameter and push it onto newArray by passing it through the callback which is
+doSomething which doubles the value of each element of the array, and when it finishes it returns the array which
+is just an array which has all the values doubled of the original array.
 
 # Question 18
+
 
 # Question 19
