@@ -24,8 +24,11 @@ You will get outputted to your console the number: 150
 You will get returned this array of numbers: [ 50, 100, 150 ]
 
 # Question 9
-
+When you do that you get this error: ReferenceError: i is not defined, I think the reason that this happens
+is that i is not defined out of the for loop
 
 # Question 10
+You will get the number 3 outputted to the console
 
 # Question 11
+You will get returned this array of numbers: [ 50, 100, 150 ]
