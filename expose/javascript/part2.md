@@ -32,3 +32,25 @@ You will get the number 3 outputted to the console
 
 # Question 11
 You will get returned this array of numbers: [ 50, 100, 150 ]
+
+# Question 12
+A. student.name
+B. student['Grad Year']
+C. student.greeting()
+D. student['Favorite Teacher'].name
+E. student.courseLoad[0]
+
+# Question 13
+
+
+# Question 14
+
+# Question 15
+
+# Question 16
+
+# Question 17
+
+# Question 18
+
+# Question 19
