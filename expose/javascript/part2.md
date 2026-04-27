@@ -64,6 +64,11 @@ The difference between == and === is that == does type conversation while === do
 they are written
 
 # Question 16
+for(const property in statistics){
+    if((property[0] == 'r') || (statistics[property] %2 != 0)){
+        console.log(`${property}: ${statistics[property]}`);
+    }
+}
 
 # Question 17
 

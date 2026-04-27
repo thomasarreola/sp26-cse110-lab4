@@ -1,6 +1,15 @@
-//console.log('2' > 1);
-//console.log('2' < '12');
-//console.log(2 == '2');
-//console.log(2 === '2');
-//console.log(true == 2);
-console.log(true === Boolean(2));
+let statistics = {
+    redCards: 21,
+    blueCars: 45,
+    greenCars: 12,
+    raceCards: 5,
+    blackCars: 40,
+    rareCars: 2
+}
+
+for(const property in statistics){
+    if((property[0] == 'r') || (statistics[property] %2 != 0)){
+        console.log(`${property}: ${statistics[property]}`);
+    }
+}
+
