@@ -51,8 +51,17 @@ G.it returns '3undefined' because it interprets undefines as a string and adds a
 H.it returns Nan, because even if it converts '3' to 3, you can't subtract something that it is not defined
 
 # Question 14
+A. it returns true, and this is because it converts '2' to 2 and then does the comparison
+B. it return false, and this is because since both of strings they are compared character by character
+and '2' > '1'
+C. it returns true, and this is because '2' is converted to 2 and then compared
+D. it returns false because === does not perform type conversation and so 2 is not equal to '2'
+E. it returns false because true gets converted to 1 and 1 is not equal to 2
+F. it returns true because Boolean(2) is evaluated as true as long as the thing inside of it is not 0
 
 # Question 15
+The difference between == and === is that == does type conversation while === does not and evaluates them as
+they are written
 
 # Question 16
 
